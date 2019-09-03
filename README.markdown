@@ -1,1 +1,1 @@
-Базовый пример Renderscript в связке NDK
+Базовый пример Renderscript в связке c NDK
