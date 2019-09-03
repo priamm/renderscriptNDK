@@ -1,1 +1,1 @@
-Работающий пример RenderScript в связке с NDK
+Базовый пример Renderscript в связке NDK
